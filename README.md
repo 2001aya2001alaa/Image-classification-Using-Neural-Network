@@ -12,8 +12,8 @@ https://github.com/ardamavi/Sign-Language-Digits-Dataset
 ○ testing(20%).
 
 ### Train using normalized gray images
-○ Do preprocessing steps (Normalization):
-■ Convert each image to gray
-■ Divide each image by 255
-○ Build 2 different Neural Network architectures that can detect the digit of a given image(change number of hidden layer, number of neurons in each hidden layer).
-○ Apply cross validation during training.
+#### Do preprocessing steps (Normalization):
+- Convert each image to gray
+- Divide each image by 255
+#### Build 2 different Neural Network architectures that can detect the digit of a given image(change number of hidden layer, number of neurons in each hidden layer).
+#### Apply cross validation during training.
