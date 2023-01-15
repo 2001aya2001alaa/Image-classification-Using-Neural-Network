@@ -1,7 +1,7 @@
 # Image-classification-Using-Neural-Network-
 
 ## The Purpose
-- Make a model to predict the numbers from 1 to 9 from hands move 
+- Make a model to predict the numbers from 1 to 9 from the hands moving.
 - Compare between:- different models - CNN and regular NN in Image Classification
 
 ## The Dataset 
